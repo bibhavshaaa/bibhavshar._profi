@@ -12,7 +12,7 @@ Experience with Machine and Deep Learning along with Data Science and Natural La
 <!-- - 🔭 I'm a software developer  in Bareilly , India -->
 
 <!--
-**bibhavshaaa/BIBHAV SHARMA* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bibhavshaaa/bibhavshar.profi* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
