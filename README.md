@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/bibhavsharma-profile/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/bibhavshaaa/bibhavshaaa/blob/maim/profile-img_1.png" align="right" width="25%"/>
+  <img src="https://github.com/bibhavshaaa/bibhavshar._profi/blob/maim/profile-img_1.png" align="right" width="25%"/>
 
 Experience with Machine and Deep Learning along with Data Science and Natural Language Processing.
 
